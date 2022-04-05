@@ -1,5 +1,5 @@
 hii
 this 
-is java code
+is pyhon code
 from my aws
-repos
+sssdf
